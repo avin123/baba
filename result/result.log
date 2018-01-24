@@ -1,0 +1,146 @@
+com.avin.scripts.CreateEmp 2017-12-21 22:45:30,213 com.avin.base.BaseTest.initExtentReport(BaseTest.java:52) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-21 22:45:31,645 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:68) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-21 22:48:10,366 com.avin.base.BaseTest.initExtentReport(BaseTest.java:52) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-21 22:48:10,726 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:68) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-21 22:48:10,741 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:79) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-21 22:54:30,920 com.avin.base.BaseTest.initExtentReport(BaseTest.java:52) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-21 22:54:31,289 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:68) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-21 22:54:31,298 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:79) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-21 23:26:58,906 com.avin.base.BaseTest.initExtentReport(BaseTest.java:52) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-21 23:26:59,830 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:68) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-21 23:26:59,877 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:79) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 02:04:48,763 com.avin.base.BaseTest.initExtentReport(BaseTest.java:52) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 02:04:49,604 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:68) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 02:04:49,646 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:79) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 02:31:31,615 com.avin.base.BaseTest.initExtentReport(BaseTest.java:52) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 02:31:32,100 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:68) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 02:31:32,115 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:79) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 02:48:45,158 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 02:48:45,517 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 02:48:45,533 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 02:49:11,283 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 02:49:58,951 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 02:49:59,324 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 02:49:59,340 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 02:50:16,061 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:03:12,671 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:03:13,062 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:03:13,080 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:03:40,140 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:06:56,215 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:06:56,575 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:06:56,590 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:07:11,093 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:10:15,722 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:10:16,061 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:10:16,076 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:10:37,258 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:12:50,446 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:12:50,805 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:12:50,821 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:12:59,760 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:18:59,573 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:18:59,933 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:18:59,933 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:19:13,314 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:19:40,953 com.avin.base.BaseTest.loggingOut(BaseTest.java:124) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 03:25:06,035 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:25:06,050 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:25:07,378 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:25:07,395 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:25:07,427 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:25:07,433 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:25:54,045 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:26:07,138 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:26:16,765 com.avin.base.BaseTest.loggingOut(BaseTest.java:124) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 03:26:18,447 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2017-12-22 03:26:40,329 com.avin.base.BaseTest.loggingOut(BaseTest.java:124) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 03:29:21,502 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:29:21,861 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:29:21,877 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:29:43,031 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:29:59,507 com.avin.base.BaseTest.loggingOut(BaseTest.java:124) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 03:31:33,499 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:31:33,906 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:31:33,939 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:32:24,360 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:32:36,918 com.avin.base.BaseTest.loggingOut(BaseTest.java:124) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 03:35:47,692 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:35:48,020 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:35:48,035 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:36:07,358 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:36:17,207 com.avin.base.BaseTest.loggingOut(BaseTest.java:124) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 03:51:43,537 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 03:51:43,881 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 03:51:43,897 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 03:51:57,522 com.avin.base.BaseTest.loginApp(BaseTest.java:105) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 03:52:09,577 com.avin.base.BaseTest.loggingOut(BaseTest.java:124) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 03:52:11,307 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2017-12-22 04:28:04,566 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-22 04:28:04,898 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-22 04:28:04,913 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-22 04:28:21,514 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2017-12-22 04:28:26,217 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2017-12-22 04:28:32,624 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-22 04:28:34,478 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2017-12-27 15:34:56,817 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-27 15:34:57,420 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-27 15:34:57,476 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-27 15:36:19,945 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-27 15:36:20,725 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-27 15:36:20,737 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-27 15:37:03,279 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2017-12-27 15:37:21,012 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2017-12-27 15:37:36,384 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-27 15:37:38,071 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2017-12-27 19:52:03,901 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-27 19:52:04,452 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-27 19:52:04,478 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-27 19:52:29,810 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2017-12-27 19:52:35,440 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2017-12-27 19:52:45,530 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-27 19:55:39,113 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-27 19:55:39,481 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-27 19:55:39,493 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-27 19:55:59,490 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2017-12-27 19:56:06,380 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2017-12-27 19:56:30,005 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-27 19:56:31,097 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2017-12-27 23:03:35,416 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-27 23:03:36,316 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-27 23:03:55,429 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-27 23:03:55,787 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-27 23:03:55,797 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-27 23:04:47,072 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2017-12-27 23:04:56,951 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2017-12-27 23:05:04,315 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-27 23:08:41,640 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-27 23:08:42,341 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-27 23:08:42,353 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-27 23:08:50,796 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2017-12-27 23:08:58,311 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2017-12-27 23:09:09,063 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-27 23:09:09,887 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2017-12-28 03:05:57,484 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-28 03:05:58,045 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-28 03:06:54,835 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2017-12-28 03:06:55,166 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2017-12-28 03:06:55,177 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2017-12-28 03:08:13,174 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2017-12-28 03:08:22,770 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2017-12-28 03:08:45,162 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2017-12-28 03:08:46,184 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2018-01-21 17:40:32,272 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2018-01-21 17:40:44,275 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2018-01-21 17:40:44,418 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2018-01-21 17:41:52,538 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2018-01-21 17:44:42,274 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2018-01-21 17:44:43,157 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2018-01-21 17:44:43,171 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
+com.avin.scripts.CreateEmp 2018-01-21 17:45:04,246 com.avin.base.BaseTest.loginApp(BaseTest.java:106) Auto login 
+com.avin.scripts.CreateEmp 2018-01-21 17:45:19,621 com.avin.base.BaseTest.loginApp(BaseTest.java:120) com.relevantcodes.extentreports.ExtentTest@68702e03 
+com.avin.scripts.CreateEmp 2018-01-21 17:45:50,495 com.avin.base.BaseTest.loggingOut(BaseTest.java:127) AutoLogout 
+com.avin.scripts.CreateEmp 2018-01-21 17:45:51,749 com.avin.base.BaseTest.closingBrowser(BaseTest.java:94) closing the browser 
+com.avin.scripts.CreateEmp 2018-01-24 05:50:06,302 com.avin.base.BaseTest.initExtentReport(BaseTest.java:53) Initializing ExtentReports 
+com.avin.scripts.CreateEmp 2018-01-24 05:50:06,685 com.avin.base.BaseTest.initializingGlobalVariables(BaseTest.java:69) Initializing Global Variables 
+com.avin.scripts.CreateEmp 2018-01-24 05:50:06,685 com.avin.base.BaseTest.LaunchingBrowser(BaseTest.java:80) Opening browser : chrome 
